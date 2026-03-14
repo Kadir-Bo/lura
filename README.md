@@ -34,5 +34,3 @@ Full conversation context is preserved and correctly formatted across turns, inc
 
 - **Next.js** — App Router, Edge & Node runtimes
 - **Tailwind CSS** — utility-first styling
-- **NVIDIA NIM API** — model inference (OpenAI-compatible)
-- **Server-side tool execution** — sensitive data never reaches the client bundle
